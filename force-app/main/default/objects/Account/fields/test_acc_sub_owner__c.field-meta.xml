@@ -3,9 +3,8 @@
     <fullName>test_acc_sub_owner__c</fullName>
     <externalId>false</externalId>
     <label>test acc sub owner</label>
-    <length>255</length>
-    <required>false</required>
+    <length>2222</length>
     <trackFeedHistory>false</trackFeedHistory>
-    <type>Text</type>
-    <unique>false</unique>
+    <type>LongTextArea</type>
+    <visibleLines>12</visibleLines>
 </CustomField>
