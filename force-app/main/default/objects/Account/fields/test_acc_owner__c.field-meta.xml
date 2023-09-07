@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>test_acc_owner__c</fullName>
+    <businessStatus>Active</businessStatus>
+    <complianceGroup>PII;GDPR</complianceGroup>
+    <description>test</description>
     <externalId>false</externalId>
     <label>test acc owner</label>
     <required>false</required>
